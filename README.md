@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @Sankari-Balasubramaniyan
-- 👀 I’m interested in **Internet of Things, Machine Learning and Bloackchain Development**
+- 👋 Hi, I’m @Sankari-Balasubramaniyan , all about me at my website : https://sankari-balasubramaniyan.github.io/
+
+- 👀 I’m interested in **Internet of Things and Machine Learning**
+
 - 🌱 I’m currently learning **Masters on Internet of things** 
+
 - 💞️ I’m looking to collaborate on interesting projects related to topics I'm interested in.
+
 - 📫 **REACH ME** MAIL - **bsank1010@gmail.com**, LINKEDIN - **https://www.linkedin.com/in/sankari-b-159808170/** 
 
 <!---
